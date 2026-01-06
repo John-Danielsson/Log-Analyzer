@@ -68,10 +68,12 @@
 2025-08-10 11:09:01Z WARN Bandwidth exceeded on host app02 (10.0.0.7)
 2025-08-10 11:10:12Z INFO User alopez logged out
 2025-08-10 11:11:23Z ERROR Permission denied for klee (10.0.0.12)
+2025-08-10 10:05:03Z ERROR Permission denied for tsmith (10.0.0.2)
 2025-08-10 11:12:34Z INFO User snguyen logged in from 10.0.0.10
 2025-08-10 11:13:45Z WARN Memory usage high on host db01 (10.0.0.5)
 2025-08-10 11:14:56Z INFO User snguyen accessed reports
 2025-08-10 11:15:07Z ERROR Timeout for tsmith (10.0.0.2)
+2025-08-10 10:05:03Z ERROR Permission denied for tsmith (10.0.0.2)
 2025-08-10 11:16:18Z INFO User jkim logged in from 10.0.0.1
 2025-08-10 11:17:29Z WARN CPU load on host web02 (10.0.0.9)
 2025-08-10 11:18:40Z INFO User jkim logged out
@@ -83,16 +85,24 @@
 2025-08-10 11:24:46Z INFO User klee downloaded archive.zip
 2025-08-10 11:25:57Z WARN High traffic on host proxy02 (10.0.0.17)
 2025-08-10 11:26:08Z INFO User snguyen logged out
+2025-08-10 11:26:08Z INFO User snguyen logged out
+2025-08-10 10:05:03Z ERROR Permission denied for tsmith (10.0.0.2)
 2025-08-10 11:27:19Z ERROR File not found for tsmith (10.0.0.2)
 2025-08-10 11:28:30Z INFO User rpatel logged in from 10.0.0.8
 2025-08-10 11:29:41Z WARN Disk full on host app01 (10.0.0.15)
 2025-08-10 11:30:52Z INFO User rpatel executed cleanup.sh
 2025-08-10 11:31:03Z ERROR Authentication failed for mchen (10.0.0.6)
 2025-08-10 11:32:14Z INFO User alopez logged in from 10.0.0.4
+2025-08-10 10:05:03Z ERROR Permission denied for tsmith (10.0.0.2)
 2025-08-10 11:33:25Z WARN Network latency on host db02 (10.0.0.14)
 2025-08-10 11:34:36Z INFO User alopez logged out
+2025-08-10 10:05:03Z ERROR Permission denied for tsmith (10.0.0.2)
+2025-08-10 10:05:03Z ERROR Permission denied for tsmith (10.0.0.2)
+2025-08-10 10:05:03Z ERROR Permission denied for tsmith (10.0.0.2)
 2025-08-10 11:35:47Z ERROR Permission denied for jkim (10.0.0.1)
 2025-08-10 11:36:58Z INFO User klee logged out
+2025-08-10 11:37:09Z WARN High CPU on host web01 (10.0.0.3)
+2025-08-10 11:37:09Z WARN High CPU on host web01 (10.0.0.3)
 2025-08-10 11:37:09Z WARN High CPU on host web01 (10.0.0.3)
 2025-08-10 11:38:20Z INFO User tsmith logged in from 10.0.0.2
 2025-08-10 11:39:31Z ERROR Invalid credentials for snguyen (10.0.0.10)
