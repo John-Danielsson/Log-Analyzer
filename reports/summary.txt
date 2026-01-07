@@ -1,0 +1,22 @@
+=== Top Lines ===
+2025-08-10 10:05:03Z ERROR Permission denied for t...        8
+2025-08-10 11:37:09Z WARN High CPU on host web01 (...        3
+2025-08-10 11:26:08Z INFO User snguyen logged out            2
+2025-08-10 10:01:22Z INFO User jkim logged in from...        1
+2025-08-10 10:05:05Z WARN High CPU on host web01 (...        1
+2025-08-10 10:05:07Z INFO User jkim logged out               1
+2025-08-10 10:06:15Z INFO User alopez logged in fr...        1
+2025-08-10 10:07:02Z WARN High memory usage on hos...        1
+2025-08-10 10:08:11Z ERROR Authentication failed f...        1
+2025-08-10 10:09:20Z INFO User alopez accessed fil...        1
+=== Top IPs ===
+10.0.0.2                                                     14
+10.0.0.4                                                     7
+10.0.0.6                                                     7
+10.0.0.8                                                     7
+10.0.0.1                                                     6
+10.0.0.3                                                     6
+10.0.0.10                                                    6
+10.0.0.12                                                    6
+10.0.0.5                                                     3
+10.0.0.14                                                    3
